@@ -4,8 +4,6 @@ Interactive dashboards and analytics projects across multiple BI tools.
 
 ---
 
-## Tools
-
 -  **Power BI**  
    [View Power BI Projects](https://github.com/karthic180/power-bi-dashboards)
 
