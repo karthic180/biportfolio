@@ -30,11 +30,6 @@ Interactive dashboards and analytics projects across multiple BI tools.
 
 ---
 
-## **SQL & Data Modeling**
-<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Dimensional%20Modeling-00599C?style=flat&logo=data&logoColor=white"/>
-
----
-
 ## **Analytics & Reporting**
 <a href="https://github.com/karthic180/analytics-and-reporting">
 <img src="https://img.shields.io/badge/Analytics%20%26%20Reporting-0085CAstyle=flat&logo=googleanalytics&logoColor=white"/></a>
@@ -55,4 +50,6 @@ Interactive dashboards and analytics projects across multiple BI tools.
 <a><img src="https://img.shields.io/badge/Power%20Virtual%20Agents-0A5BD7?style=flat&logo=microsoft&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Dataverse-48A23F?style=flat&logo=microsoft&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Power%20Fx-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Dimensional%20Modeling-00599C?style=flat&logo=data&logoColor=white"/>
+
 
