@@ -49,7 +49,3 @@ Visual storytelling, insights dashboards, and business analytics.
 
 KPI design, performance reporting, and business insights.  
 👉 [View Analytics & Reporting Projects](https://github.com/karthic180/analytics-and-reporting)
-
-
-
-Just tell me how you want to evolve it.
