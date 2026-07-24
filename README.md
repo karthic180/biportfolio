@@ -5,6 +5,29 @@ Enterprise-grade Business Intelligence, Data Analytics, and Reporting projects b
 This portfolio showcases interactive dashboards, dimensional data modelling, semantic models, executive reporting, and business analytics projects that demonstrate end-to-end Business Intelligence development.
 
 ---
+# BI Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-008272?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dimensional%20Modeling-00599C?style=flat&logo=data&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics%20%26%20Reporting-0085CA?style=flat&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Pages-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Virtual%20Agents-0A5BD7?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataverse-48A23F?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Fx-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+
+</p>
+
 
 ## Business Intelligence Portfolio
 
@@ -80,31 +103,6 @@ Projects demonstrate:
 - Fact & Dimension Modelling
 - ETL Concepts
 - Data Transformation
-
----
-
-# BI Tech Stack
-
-<p>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Query-008272?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dimensional%20Modeling-00599C?style=flat&logo=data&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Analytics%20%26%20Reporting-0085CA?style=flat&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Pages-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Virtual%20Agents-0A5BD7?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dataverse-48A23F?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Fx-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-
-</p>
 
 ---
 
